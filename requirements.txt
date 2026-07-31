@@ -11,3 +11,4 @@ orjson
 loguru
 python-dotenv
 async-timeout
+redis
