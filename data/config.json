@@ -1,5 +1,24 @@
 {
+  "sys": {
+    "bind": "0.0.0.0",
+    "port": 9763,
+    "log_level": "INFO",
+    "log_file": false
+  },
   "cache": {
-    "type": "memory"
+    "type": "memory",
+    "redis": {
+      "host": "127.0.0.1",
+      "port": 6379,
+      "password": "",
+      "db": 0
+    }
+  },
+  "security": {
+    "key": "",
+    "ban_trigger_count": 100,
+    "ban_time": 3600,
+    "whitelist": [],
+    "blacklist": []
   }
 }
