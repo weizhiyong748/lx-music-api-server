@@ -13,3 +13,4 @@ python-dotenv
 async-timeout
 redis
 redis://red-d9mcshjl550s73cud5gg:6379
+ 
