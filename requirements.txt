@@ -8,3 +8,6 @@ requests
 pycryptodome
 aiohttp
 orjson
+loguru
+python-dotenv
+async-timeout
