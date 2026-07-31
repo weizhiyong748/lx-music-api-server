@@ -15,7 +15,7 @@
     }
   },
   "security": {
-    "key": "",
+    "key": "LXmusic123456",
     "ban_trigger_count": 100,
     "ban_time": 3600,
     "whitelist": [],
