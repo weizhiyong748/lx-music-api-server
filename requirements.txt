@@ -1,9 +1,6 @@
-mkdocs-git-committers-plugin-2
-mkdocs-git-authors-plugin
-mkdocs-git-revision-date-localized-plugin
+fastapi
 uvicorn
 apscheduler
-fastapi
 requests
 pycryptodome
 aiohttp
@@ -12,4 +9,8 @@ loguru
 python-dotenv
 async-timeout
 redis
-
+python-multipart
+pydantic
+mkdocs-git-committers-plugin-2
+mkdocs-git-authors-plugin
+mkdocs-git-revision-date-localized-plugin
