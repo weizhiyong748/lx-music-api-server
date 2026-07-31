@@ -7,3 +7,4 @@ fastapi
 requests
 pycryptodome
 aiohttp
+orjson
