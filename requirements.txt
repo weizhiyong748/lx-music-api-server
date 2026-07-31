@@ -3,3 +3,7 @@ mkdocs-git-authors-plugin
 mkdocs-git-revision-date-localized-plugin
 uvicorn
 apscheduler
+fastapi
+requests
+pycryptodome
+aiohttp
